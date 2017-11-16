@@ -1,7 +1,7 @@
 # 地推助手_iOS
 
 ![](https://cnzlh.github.io/ios_57.png)
-2.1.1(build 3)
+2.1.1(build 4)
 
 <a href="itms-services://?action=download-manifest&url=https://cnzlh.github.io/manifest.plist">点击在线安装ipa</a>
 
