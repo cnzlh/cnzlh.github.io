@@ -3,7 +3,7 @@
 ![](https://cnzlh.github.io/ios_57.png)
 2.1.3(build 2)
 
-<a href="itms-services://?action=download-manifest&url=https://github.com/cnzlh/DiTuiZhuShou/manifest.plist">点击在线安装ipa</a>
+<a href="itms-services://?action=download-manifest&url=https://github.com/cnzlh/DiTuiZhuShou/blob/master/manifest.plist">点击在线安装ipa</a>
 
 发布日期: 
 2018.3.1
