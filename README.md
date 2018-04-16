@@ -1,14 +1,17 @@
 # 地推助手_iOS
 
 ![](https://cnzlh.github.io/ios_57.png)
-2.1.4(build 3)
+2.1.4(build 4)
 
 <a href="itms-services://?action=download-manifest&url=https://cnzlh.github.io/manifest.plist">点击在线安装ipa</a>
 
 发布日期: 
-2018.3.29
+2018.4.16
 
 更新日志:
+* 修复了输入路由器序列号时键盘显示不完整的问题
+
+最近更新:
 * 优化手机号码验证规则
 * 裁剪图片，防止上传时图片过大
 
