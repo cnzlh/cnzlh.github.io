@@ -4,9 +4,11 @@
 
 <a href="itms-services://?action=download-manifest&url=https://cnzlh.github.io/manifest.plist">点击在线安装ipa</a>
 
-<!--发布日期: 
-2018.4.16
+发布日期: 
+2018.7.11
+版本号：2.2.4
 
+<!--
 更新日志:
 * 修复了输入路由器序列号时键盘显示不完整的问题
 
