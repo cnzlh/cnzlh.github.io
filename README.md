@@ -5,8 +5,8 @@
 <a href="itms-services://?action=download-manifest&url=https://cnzlh.github.io/manifest.plist">点击在线安装ipa</a>
 
 发布日期: 
-2018.7.19
-版本号：2.2.5
+2018.7.26
+版本号：2.2.6
 
 <!--
 更新日志:
